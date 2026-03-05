@@ -18,8 +18,13 @@ Currently based in **Munich, Germany**, actively exploring opportunities in **Da
 - DBT  
 - Python  
 - Data Vault Modeling  
-- Dimensional Modeling 
+- Dimensional Modeling
 
+  
+
+**Cloud**
+- AWS
+  
 </td>
 <td valign="top" width="50%">
 
@@ -30,7 +35,7 @@ Currently based in **Munich, Germany**, actively exploring opportunities in **Da
 - Airflow  
 - Airbyte  
 - Fivetran  
-- APIs  
+ 
 
 **Analytics & Visualization**
 - Tableau  
